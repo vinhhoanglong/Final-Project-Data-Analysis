@@ -1,0 +1,118 @@
+,Date,Start,Visitor,Home,PointVisitor,PointHome,HomeWin,Day_name
+0,2023-11-03,6,Toronto,Philadelphia,99,114,True,Friday
+1,2023-11-03,7,Detroit,New Orleans,116,125,True,Friday
+2,2023-11-03,8,Orlando,Utah,115,113,False,Friday
+3,2023-11-03,9,San Antonio,Phoenix,132,121,False,Friday
+4,2023-11-04,6,Cleveland,Indiana,116,121,True,Saturday
+5,2023-11-04,6,New York,Milwaukee,105,110,True,Saturday
+6,2023-11-04,7,Brooklyn,Chicago,109,107,False,Saturday
+7,2023-11-04,7,Washington,Miami,114,121,True,Saturday
+8,2023-11-04,7,Golden State,Oklahoma City,141,139,False,Saturday
+9,2023-11-04,9,Dallas,Denver,114,125,True,Saturday
+10,2023-11-04,9,Memphis,Portland,113,125,True,Saturday
+11,2023-11-05,6,Phoenix,Philadelphia,100,112,True,Sunday
+12,2023-11-05,6,Atlanta,New Orleans,123,105,False,Sunday
+13,2023-11-05,6,Charlotte,Indiana,125,124,False,Sunday
+14,2023-11-05,7,Los Angeles,Orlando,101,120,True,Sunday
+15,2023-11-05,7,Sacramento,Houston,89,107,True,Sunday
+16,2023-11-05,7,Utah,Minnesota,95,123,True,Sunday
+17,2023-11-05,8,Boston,Brooklyn,124,114,False,Sunday
+18,2023-11-05,12,Chicago,Denver,101,123,True,Sunday
+19,2023-11-06,3,Phoenix,Detroit,120,106,False,Monday
+20,2023-11-06,3,Toronto,San Antonio,123,116,False,Monday
+21,2023-11-06,6,Golden State,Cleveland,104,115,True,Monday
+22,2023-11-06,7,Charlotte,Dallas,118,124,True,Monday
+23,2023-11-06,9,Memphis,Portland,112,100,False,Monday
+24,2023-11-07,7,Golden State,Detroit,120,109,False,Tuesday
+25,2023-11-07,7,San Antonio,Detroit,111,152,True,Tuesday
+26,2023-11-07,7,Dallas,Orlando,117,102,False,Tuesday
+27,2023-11-07,7,Los Angeles,Miami,107,108,True,Tuesday
+28,2023-11-07,7,Milwaukee,Brooklyn,129,125,False,Tuesday
+29,2023-11-07,7,Los Angeles,New York,97,111,True,Tuesday
+30,2023-11-07,7,Atlanta,Oklahoma City,117,126,True,Tuesday
+31,2023-11-07,8,Utah,Chicago,113,130,True,Tuesday
+32,2023-11-07,8,Sacramento,Houston,97,122,True,Tuesday
+33,2023-11-07,8,Boston,Minnesota,109,114,True,Tuesday
+34,2023-11-07,8,New Orleans,Denver,116,134,True,Tuesday
+35,2023-11-07,9,Utah,Indiana,118,134,True,Tuesday
+36,2023-11-09,10,Boston,Philadelphia,103,106,True,Thursday
+37,2023-11-09,7,Washington,Charlotte,132,116,False,Thursday
+38,2023-11-09,7,Los Angeles,Brooklyn,93,100,True,Thursday
+39,2023-11-09,7,San Antonio,New York,105,126,True,Thursday
+40,2023-11-09,7,Miami,Memphis,108,102,False,Thursday
+41,2023-11-09,7,Phoenix,Chicago,116,115,False,Thursday
+42,2023-11-09,8,Los Angeles,Houston,94,128,True,Thursday
+43,2023-11-09,8,Detroit,Milwaukee,118,120,True,Thursday
+44,2023-11-09,8,New Orleans,Minnesota,101,122,True,Thursday
+45,2023-11-09,8,Cleveland,Oklahoma City,120,128,True,Thursday
+46,2023-11-09,8,Toronto,Dallas,127,116,False,Thursday
+47,2023-11-09,8,Golden State,Denver,105,108,True,Thursday
+48,2023-11-09,8,Portland,Sacramento,118,121,True,Thursday
+49,2023-11-09,10,New Orleans,Denver,116,134,True,Thursday
+50,2023-11-10,7,Milwaukee,Indiana,124,126,True,Friday
+51,2023-11-10,9,Atlanta,Orlando,120,119,False,Friday
+52,2023-11-11,7,Philadelphia,Detroit,114,106,False,Saturday
+53,2023-11-11,7,Charlotte,Washington,124,117,False,Saturday
+54,2023-11-11,7,Brooklyn,Boston,107,121,True,Saturday
+55,2023-11-11,8,New Orleans,Houston,101,104,True,Saturday
+56,2023-11-11,8,Minnesota,San Antonio,117,110,False,Saturday
+57,2023-11-11,8,Utah,Memphis,127,121,False,Saturday
+58,2023-11-11,8,Los Angeles,Dallas,126,144,True,Saturday
+59,2023-11-11,10,Los Angeles,Phoenix,122,119,False,Saturday
+60,2023-11-11,10,Oklahoma City,Sacramento,98,105,True,Saturday
+61,2023-11-12,6,Milwaukee,Orlando,97,112,True,Sunday
+62,2023-11-12,7,Toronto,Boston,94,117,True,Sunday
+63,2023-11-12,7,Miami,Atlanta,117,109,False,Sunday
+64,2023-11-12,8,Cleveland,Golden State,118,110,False,Sunday
+65,2023-11-13,3,Charlotte,New York,107,129,True,Monday
+66,2023-11-13,3,Washington,Brooklyn,94,102,True,Monday
+67,2023-11-13,6,Memphis,Los Angeles,105,101,False,Monday
+68,2023-11-13,7,Indiana,Philadelphia,126,137,True,Monday
+69,2023-11-13,7,Dallas,New Orleans,136,124,False,Monday
+70,2023-11-13,7,Detroit,Chicago,108,119,True,Monday
+71,2023-11-13,7,Denver,Houston,104,107,True,Monday
+72,2023-11-13,8,Miami,San Antonio,118,113,False,Monday
+73,2023-11-13,8,Oklahoma City,Phoenix,111,99,False,Monday
+74,2023-11-13,10,Minnesota,Golden State,116,110,False,Monday
+75,2023-11-13,12,Portland,Los Angeles,110,116,True,Monday
+76,2023-11-14,7,New York,Boston,98,114,True,Tuesday
+77,2023-11-14,7,Washington,Toronto,107,111,True,Tuesday
+78,2023-11-14,8,Chicago,Milwaukee,109,118,True,Tuesday
+79,2023-11-14,10,Cleveland,Sacramento,120,132,True,Tuesday
+80,2023-11-15,7,Atlanta,Detroit,126,120,False,Wednesday
+81,2023-11-15,7,Indiana,Philadelphia,132,126,False,Wednesday
+82,2023-11-15,7,Miami,Charlotte,111,105,False,Wednesday
+83,2023-11-15,7,Orlando,Brooklyn,104,124,True,Wednesday
+84,2023-11-15,7,San Antonio,Oklahoma City,87,123,True,Wednesday
+85,2023-11-15,8,Dallas,New Orleans,110,131,True,Wednesday
+86,2023-11-15,9,Portland,Utah,99,115,True,Wednesday
+87,2023-11-15,10,Los Angeles,Denver,108,111,True,Wednesday
+88,2023-11-15,10,Minnesota,Golden State,104,101,False,Wednesday
+89,2023-11-15,10,Memphis,Los Angeles,107,134,True,Wednesday
+90,2023-11-16,7,Dallas,Washington,130,117,False,Thursday
+91,2023-11-16,7,New York,Atlanta,116,114,False,Thursday
+92,2023-11-16,7,Boston,Philadelphia,117,107,False,Thursday
+93,2023-11-16,7,Milwaukee,Toronto,128,112,False,Thursday
+94,2023-11-16,8,Orlando,Chicago,96,94,False,Thursday
+95,2023-11-16,9,Minnesota,Phoenix,115,133,True,Thursday
+96,2023-11-16,10,Sacramento,Los Angeles,125,110,False,Thursday
+97,2023-11-16,10,Cleveland,Portland,109,95,False,Thursday
+98,2023-11-17,7,Brooklyn,Miami,115,122,True,Friday
+99,2023-11-17,10,Oklahoma City,Golden State,128,109,False,Friday
+100,2023-11-18,7,New York,Washington,120,99,False,Saturday
+101,2023-11-18,7,Milwaukee,Charlotte,130,99,False,Saturday
+102,2023-11-18,7,Sacramento,San Antonio,129,120,False,Saturday
+103,2023-11-18,7,Philadelphia,Atlanta,126,116,False,Saturday
+104,2023-11-18,7,Detroit,Cleveland,100,108,True,Saturday
+105,2023-11-18,7,Boston,Toronto,108,105,False,Saturday
+106,2023-11-18,8,Denver,New Orleans,110,115,True,Saturday
+107,2023-11-18,8,Orlando,Chicago,103,97,False,Saturday
+108,2023-11-18,10,Los Angeles,Portland,107,95,False,Saturday
+109,2023-11-18,10,Phoenix,Utah,131,128,False,Saturday
+110,2023-11-18,10,Houston,Los Angeles,100,106,True,Saturday
+111,2023-11-19,6,New York,Charlotte,122,108,False,Sunday
+112,2023-11-19,7,Minnesota,New Orleans,121,120,False,Sunday
+113,2023-11-19,8,Miami,Chicago,97,102,True,Sunday
+114,2023-11-19,8,Dallas,Milwaukee,125,132,True,Sunday
+115,2023-11-19,8,Memphis,San Antonio,120,108,False,Sunday
+116,2023-11-19,8,Oklahoma City,Golden State,130,123,False,Sunday
